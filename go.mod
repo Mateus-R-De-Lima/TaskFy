@@ -1,0 +1,3 @@
+module github.com/Mateus-R-De-Lima/taskfy
+
+go 1.27.1
